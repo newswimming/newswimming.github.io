@@ -1,0 +1,42 @@
+name: Zettlebank Auto-Encrypt
+
+on:
+  push:
+    branches:
+      - source # The robot only wakes up when Publii syncs here
+
+jobs:
+  build-and-encrypt:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Source
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+
+      - name: Install StatiCrypt
+        run: npm install -g staticrypt
+
+      - name: Run Encryption
+        run: |
+          staticrypt . -r -p "${{ secrets.STATICRYPT_PASSWORD }}" \
+          --remember 30 \
+          -d "encrypted-output" \
+          --template-color-primary "#6b182f" \
+          --template-color-secondary "#6b182f" \
+          --template-title "Zettlebank Secure Access" \
+          --template-instructions "Checkmark the 'Remember me' box so your browser saves the key for each page as you navigate the site."
+
+      - name: Ensure NoJekyll
+        run: touch encrypted-output/.nojekyll
+
+      - name: Deploy to Main
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: main
+          publish_dir: ./encrypted-output
+          force_orphan: true
