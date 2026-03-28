@@ -12,7 +12,7 @@
     {
         "path": "african-spacemaking-critical-narratives-and-urban-co-creation-in-five-virtual-reality-vr-productions-journal-of-public-space-vol-7-no1.html",
         "type": "file",
-        "md5": "b14cebfd9f9192c624d54e38cf6d74be"
+        "md5": "cb4508776276382d28d8fb17d3e74ee4"
     },
     {
         "path": "an-astronaut-monkey-or-fetus-tied-by-umbilical-cord.html",
@@ -107,7 +107,7 @@
     {
         "path": "/authors/newswimming/index.html",
         "type": "file",
-        "md5": "d55ef65051dff7fc90fb8f1ddb136822"
+        "md5": "3819adaa428dfcb1d2fa50f003805ef8"
     },
     {
         "path": "authors/newswimming/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/newswimming/page/2/index.html",
         "type": "file",
-        "md5": "a3b637e983ce8ba1fe859a323ff1cc59"
+        "md5": "d60a07f094790fb9d8bebf19f3be11f9"
     },
     {
         "path": "authors/newswimming/page/3",
@@ -137,7 +137,7 @@
     {
         "path": "bathhouse-in-gwangju-gwangjumogyogtang.html",
         "type": "file",
-        "md5": "1f7de81094f0009d5a79f96cc5ba8594"
+        "md5": "fce36089552f16085eb37f63088a58f9"
     },
     {
         "path": "blog-2.html",
@@ -152,12 +152,12 @@
     {
         "path": "brief-thoughts-divergences-and-floating-signifiers-on-theory-and-praxis-from-bell-hooks-to-deleuze.html",
         "type": "file",
-        "md5": "42408b23004ca733b1f3bbe5bb3b2888"
+        "md5": "d0baac5e709bd9044d429c365c135974"
     },
     {
         "path": "chat-gpt-helped-me-think-through-javascript-but-also-audaciously-fabricated-a-mathematical-concept-when-we-were-getting-closer-to-the-question.html",
         "type": "file",
-        "md5": "3fd7740300573937f3a730b51bcced4b"
+        "md5": "7c70ce1bef5028a6051f2ce42ec85eee"
     },
     {
         "path": "demise-on-method-the-art-of-fabulation-the-digital-review-issue-04.html",
@@ -172,17 +172,17 @@
     {
         "path": "fall-semester-gathering-of-turkish-and-korean-foods.html",
         "type": "file",
-        "md5": "d2e6c37a3a249f785b90994e58332afc"
+        "md5": "d0d9206db22da8fe65b19688c90a047b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "678348520b942a76337e8b65b1151d2c"
+        "md5": "05603bda677aa069adb6646c7854ea81"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c1345d03e4aa0ae83b7e5ccd9b0989f6"
+        "md5": "2c4890cca9c54f77e343edaf87da8868"
     },
     {
         "path": "feeling-like-im-coloring-a-childrens-book-with-this-unity-tutorial.html",
@@ -192,7 +192,7 @@
     {
         "path": "feminist-ontologies-and-affect-reframing-medical-objectivity-with-the-callascope.html",
         "type": "file",
-        "md5": "0c945cfbf8a48d39989df00c99dab76f"
+        "md5": "e088ef4508946e9c9610441314b9d73b"
     },
     {
         "path": "film-education.html",
@@ -212,12 +212,12 @@
     {
         "path": "how-to-save-the-world-by-eating-snails.html",
         "type": "file",
-        "md5": "903f08f5af22fa68a351534800d9e28a"
+        "md5": "9d6dddcafede8bded29331997e0f699c"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c765d5cc832865b70593500b6d9d86df"
+        "md5": "79b2535dee8e3cae9de7212c98bed906"
     },
     {
         "path": "interview-somus-mask-and-new-mythos-for-the-metaverse.html",
@@ -232,7 +232,7 @@
     {
         "path": "jitp-the-liberatory-legacy-of-bell-hooks-pedagogies-and-praxes-that-heal-and-disrupt.html",
         "type": "file",
-        "md5": "a17aded058e6d67f2a86ab3c76a7242f"
+        "md5": "443ca6837025d8c00d86991594d942df"
     },
     {
         "path": "lately-ive-been-so-busy.html",
@@ -242,7 +242,7 @@
     {
         "path": "meandering-around-my-writers-block-but-what-block-is-that-and-into-where-is-it-trying-to-go.html",
         "type": "file",
-        "md5": "98df14ba95e7295969039b34274aca34"
+        "md5": "21359f5c8076b2354d23362b5006a2c8"
     },
     {
         "path": "media",
@@ -545,7 +545,47 @@
         "md5": false
     },
     {
-        "path": "/media/posts/27/shockwave_delay.jpeg",
+        "path": "media/posts/27/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/responsive/shockwave_delay-2-2xl.jpeg",
+        "type": "file",
+        "md5": "31ff187e775b8f30347dd8967a8ea758"
+    },
+    {
+        "path": "/media/posts/27/responsive/shockwave_delay-2-lg.jpeg",
+        "type": "file",
+        "md5": "5d2bb293963ce53ad536e97d8caa2611"
+    },
+    {
+        "path": "/media/posts/27/responsive/shockwave_delay-2-md.jpeg",
+        "type": "file",
+        "md5": "1fad1e1660715e4b662071eab0629d32"
+    },
+    {
+        "path": "/media/posts/27/responsive/shockwave_delay-2-sm.jpeg",
+        "type": "file",
+        "md5": "195010223802eec95025514e5eda0c50"
+    },
+    {
+        "path": "/media/posts/27/responsive/shockwave_delay-2-sm2.jpeg",
+        "type": "file",
+        "md5": "f74a76b80db21ec6e6cac5f32eb5788b"
+    },
+    {
+        "path": "/media/posts/27/responsive/shockwave_delay-2-xl.jpeg",
+        "type": "file",
+        "md5": "31ff187e775b8f30347dd8967a8ea758"
+    },
+    {
+        "path": "/media/posts/27/responsive/shockwave_delay-2-xs.jpeg",
+        "type": "file",
+        "md5": "0e8c997c099d0c18765d3ff351cf8f00"
+    },
+    {
+        "path": "/media/posts/27/shockwave_delay-2.jpeg",
         "type": "file",
         "md5": "9cc0675fb419c1d44298ed3c5ea96ce5"
     },
@@ -555,7 +595,7 @@
         "md5": false
     },
     {
-        "path": "/media/posts/28/img_0600.jpg",
+        "path": "/media/posts/28/img_0600-2.jpg",
         "type": "file",
         "md5": "52af672c64d47867a9c7edc8b3144563"
     },
@@ -563,6 +603,46 @@
         "path": "/media/posts/28/img_0794-2.jpg",
         "type": "file",
         "md5": "7a6618f5372c05cdecb0c941a31bb447"
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/img_0600-2-2xl.jpg",
+        "type": "file",
+        "md5": "0fae51c94f70187a2e6097783ba45947"
+    },
+    {
+        "path": "/media/posts/28/responsive/img_0600-2-lg.jpg",
+        "type": "file",
+        "md5": "d16771ad05c281071b1beafe9e7cae71"
+    },
+    {
+        "path": "/media/posts/28/responsive/img_0600-2-md.jpg",
+        "type": "file",
+        "md5": "eb74272469ae902023fd88c01d3fe459"
+    },
+    {
+        "path": "/media/posts/28/responsive/img_0600-2-sm.jpg",
+        "type": "file",
+        "md5": "ba79ef88425da6b1d35600c54908ca3f"
+    },
+    {
+        "path": "/media/posts/28/responsive/img_0600-2-sm2.jpg",
+        "type": "file",
+        "md5": "1967a73d87bf6b721ebe949499f346b5"
+    },
+    {
+        "path": "/media/posts/28/responsive/img_0600-2-xl.jpg",
+        "type": "file",
+        "md5": "7678d22bd3bfb3fd72b09b93d7c979b3"
+    },
+    {
+        "path": "/media/posts/28/responsive/img_0600-2-xs.jpg",
+        "type": "file",
+        "md5": "7997f710eb9581a6ab7e96c73da7e2ca"
     },
     {
         "path": "media/posts/29",
@@ -580,7 +660,7 @@
         "md5": "7bf2e84b295376e1f4a247d130b6b135"
     },
     {
-        "path": "/media/posts/29/img_1277.jpg",
+        "path": "/media/posts/29/img_1277-2.jpg",
         "type": "file",
         "md5": "0ed0a19e57773094344ea5792c674c4b"
     },
@@ -588,6 +668,46 @@
         "path": "/media/posts/29/img_1288.jpg",
         "type": "file",
         "md5": "60559c0f8b9124fd522da081906716a3"
+    },
+    {
+        "path": "media/posts/29/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/29/responsive/img_1277-2-2xl.jpg",
+        "type": "file",
+        "md5": "1e2ee5bcef53f888189bea877673743c"
+    },
+    {
+        "path": "/media/posts/29/responsive/img_1277-2-lg.jpg",
+        "type": "file",
+        "md5": "3a7deae5a24a1dba6e34ba7f0f269ed5"
+    },
+    {
+        "path": "/media/posts/29/responsive/img_1277-2-md.jpg",
+        "type": "file",
+        "md5": "8fca0033b3c306cf77982a8fd8a2d724"
+    },
+    {
+        "path": "/media/posts/29/responsive/img_1277-2-sm.jpg",
+        "type": "file",
+        "md5": "2139c181220928dc810ff7b5cf2374ee"
+    },
+    {
+        "path": "/media/posts/29/responsive/img_1277-2-sm2.jpg",
+        "type": "file",
+        "md5": "a0665b6d608c18fff3137e38999aeee0"
+    },
+    {
+        "path": "/media/posts/29/responsive/img_1277-2-xl.jpg",
+        "type": "file",
+        "md5": "8dc2263b687c11411962ea826c3f591f"
+    },
+    {
+        "path": "/media/posts/29/responsive/img_1277-2-xs.jpg",
+        "type": "file",
+        "md5": "e3819ec60c35eb79fd2f2df6b294db8f"
     },
     {
         "path": "media/posts/3",
@@ -605,7 +725,7 @@
         "md5": false
     },
     {
-        "path": "/media/posts/31/dsc02249.jpg",
+        "path": "/media/posts/31/dsc02249-2.jpg",
         "type": "file",
         "md5": "15f442d211d3a2000616809ca330992b"
     },
@@ -618,6 +738,46 @@
         "path": "/media/posts/31/image.png",
         "type": "file",
         "md5": "3272cc698760c22ee259a5a7c91ff1bd"
+    },
+    {
+        "path": "media/posts/31/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/31/responsive/dsc02249-2-2xl.jpg",
+        "type": "file",
+        "md5": "b7392ee5cbc43f7442bb1fdb3d4ac8fa"
+    },
+    {
+        "path": "/media/posts/31/responsive/dsc02249-2-lg.jpg",
+        "type": "file",
+        "md5": "792bbfeabb2a95ff2ac203ef4cb01802"
+    },
+    {
+        "path": "/media/posts/31/responsive/dsc02249-2-md.jpg",
+        "type": "file",
+        "md5": "fdfe793c94bd0de30e556a2c37d3c58f"
+    },
+    {
+        "path": "/media/posts/31/responsive/dsc02249-2-sm.jpg",
+        "type": "file",
+        "md5": "6ad9856fbc4f232319f3a499100c98c3"
+    },
+    {
+        "path": "/media/posts/31/responsive/dsc02249-2-sm2.jpg",
+        "type": "file",
+        "md5": "4cc3b4d8010c8ddf0e466bee9a95885c"
+    },
+    {
+        "path": "/media/posts/31/responsive/dsc02249-2-xl.jpg",
+        "type": "file",
+        "md5": "b78b8fa711f7a372a44792167095a852"
+    },
+    {
+        "path": "/media/posts/31/responsive/dsc02249-2-xs.jpg",
+        "type": "file",
+        "md5": "67822291faae8bc7ca7e4af5049ac2a8"
     },
     {
         "path": "/media/posts/31/screenshot-2023-10-03-113337.png",
@@ -635,9 +795,49 @@
         "md5": "fc3f498746bbd1cb2213515831b1ffa3"
     },
     {
-        "path": "/media/posts/32/dsc02370.jpg",
+        "path": "/media/posts/32/dsc02370-2.jpg",
         "type": "file",
         "md5": "eb76ee9ffd488dcd13276bfeb47882ca"
+    },
+    {
+        "path": "media/posts/32/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/responsive/dsc02370-2-2xl.jpg",
+        "type": "file",
+        "md5": "48154e69daba2b1b79738e7917454d9b"
+    },
+    {
+        "path": "/media/posts/32/responsive/dsc02370-2-lg.jpg",
+        "type": "file",
+        "md5": "649f28c2c57c01bd156d2adad607ef9e"
+    },
+    {
+        "path": "/media/posts/32/responsive/dsc02370-2-md.jpg",
+        "type": "file",
+        "md5": "db20e2ae095a35e9cd3c4998f8fb2c39"
+    },
+    {
+        "path": "/media/posts/32/responsive/dsc02370-2-sm.jpg",
+        "type": "file",
+        "md5": "1f21f701bc1e414f368ead0d87599ddc"
+    },
+    {
+        "path": "/media/posts/32/responsive/dsc02370-2-sm2.jpg",
+        "type": "file",
+        "md5": "b638880e401d6728c1a343bd30253d66"
+    },
+    {
+        "path": "/media/posts/32/responsive/dsc02370-2-xl.jpg",
+        "type": "file",
+        "md5": "9689fb3c98077b1b87681e24a716788c"
+    },
+    {
+        "path": "/media/posts/32/responsive/dsc02370-2-xs.jpg",
+        "type": "file",
+        "md5": "2fadbaa38945480099dad9005d323972"
     },
     {
         "path": "media/posts/33",
@@ -645,7 +845,7 @@
         "md5": false
     },
     {
-        "path": "/media/posts/33/dsc03069.jpg",
+        "path": "/media/posts/33/dsc03069-2.jpg",
         "type": "file",
         "md5": "18390ffe66d63b649444cc3ae0be3cd2"
     },
@@ -670,6 +870,46 @@
         "md5": "4f8594afceab02e7007a23402c25dfbb"
     },
     {
+        "path": "media/posts/33/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/responsive/dsc03069-2-2xl.jpg",
+        "type": "file",
+        "md5": "8dbb9e7dee0e16fec73dc36a5dd7e6b9"
+    },
+    {
+        "path": "/media/posts/33/responsive/dsc03069-2-lg.jpg",
+        "type": "file",
+        "md5": "66cdfa1899feae2c7265fbfff816086a"
+    },
+    {
+        "path": "/media/posts/33/responsive/dsc03069-2-md.jpg",
+        "type": "file",
+        "md5": "733f4a6b00f059e1c3c72c4bc6c6bbe2"
+    },
+    {
+        "path": "/media/posts/33/responsive/dsc03069-2-sm.jpg",
+        "type": "file",
+        "md5": "67c30d18d659d7ce8476cd499a76f496"
+    },
+    {
+        "path": "/media/posts/33/responsive/dsc03069-2-sm2.jpg",
+        "type": "file",
+        "md5": "e77d8b452931dd7feff44b0faa663b66"
+    },
+    {
+        "path": "/media/posts/33/responsive/dsc03069-2-xl.jpg",
+        "type": "file",
+        "md5": "cb50b080eff5eb6710d610931116d9d4"
+    },
+    {
+        "path": "/media/posts/33/responsive/dsc03069-2-xs.jpg",
+        "type": "file",
+        "md5": "97c6d3a33eeb3bf2fbb33c90146e2e62"
+    },
+    {
         "path": "media/posts/34",
         "type": "directory",
         "md5": false
@@ -690,9 +930,49 @@
         "md5": "74e7335573d712a967f49518ad3f47e5"
     },
     {
-        "path": "/media/posts/34/img_2954.jpg",
+        "path": "/media/posts/34/img_2954-2.jpg",
         "type": "file",
         "md5": "ec16b6046f2a2837471ec0015547e691"
+    },
+    {
+        "path": "media/posts/34/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/34/responsive/img_2954-2-2xl.jpg",
+        "type": "file",
+        "md5": "d558ed4eb8b045788cb53ce176613bc3"
+    },
+    {
+        "path": "/media/posts/34/responsive/img_2954-2-lg.jpg",
+        "type": "file",
+        "md5": "abaf0255bd6c4ef472ce1f8a874028bd"
+    },
+    {
+        "path": "/media/posts/34/responsive/img_2954-2-md.jpg",
+        "type": "file",
+        "md5": "11f8fc44fdb618b57ffcd1a417586528"
+    },
+    {
+        "path": "/media/posts/34/responsive/img_2954-2-sm.jpg",
+        "type": "file",
+        "md5": "12fcc914892d4c6e1675befbab7a526c"
+    },
+    {
+        "path": "/media/posts/34/responsive/img_2954-2-sm2.jpg",
+        "type": "file",
+        "md5": "8bef1ea1cd0c0b9a8f2cb82b4538ddfb"
+    },
+    {
+        "path": "/media/posts/34/responsive/img_2954-2-xl.jpg",
+        "type": "file",
+        "md5": "122817dabb35e44e871e5c8bd9547c48"
+    },
+    {
+        "path": "/media/posts/34/responsive/img_2954-2-xs.jpg",
+        "type": "file",
+        "md5": "0fff6a860b5b48dca22bac0f2a14090f"
     },
     {
         "path": "media/posts/35",
@@ -720,7 +1000,47 @@
         "md5": false
     },
     {
-        "path": "/media/posts/36/screenshot-2023-12-19-020401.png",
+        "path": "media/posts/36/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/36/responsive/screenshot-2023-12-19-020401-2-2xl.png",
+        "type": "file",
+        "md5": "bf5f53113b4559cbbbc04e9244ccbb19"
+    },
+    {
+        "path": "/media/posts/36/responsive/screenshot-2023-12-19-020401-2-lg.png",
+        "type": "file",
+        "md5": "93e2d8b882bdb7de51b6ac9325e67bc4"
+    },
+    {
+        "path": "/media/posts/36/responsive/screenshot-2023-12-19-020401-2-md.png",
+        "type": "file",
+        "md5": "09cf9c1622ec7c45bdca4e6859267d03"
+    },
+    {
+        "path": "/media/posts/36/responsive/screenshot-2023-12-19-020401-2-sm.png",
+        "type": "file",
+        "md5": "de50ec9d08c78dc88322c32ae2f3db8c"
+    },
+    {
+        "path": "/media/posts/36/responsive/screenshot-2023-12-19-020401-2-sm2.png",
+        "type": "file",
+        "md5": "a364173e91010473391d3fbb05a5582f"
+    },
+    {
+        "path": "/media/posts/36/responsive/screenshot-2023-12-19-020401-2-xl.png",
+        "type": "file",
+        "md5": "bf5f53113b4559cbbbc04e9244ccbb19"
+    },
+    {
+        "path": "/media/posts/36/responsive/screenshot-2023-12-19-020401-2-xs.png",
+        "type": "file",
+        "md5": "068b18b6904db9294a62af5da9720b96"
+    },
+    {
+        "path": "/media/posts/36/screenshot-2023-12-19-020401-2.png",
         "type": "file",
         "md5": "3e28eca69380b25e7004d09445773736"
     },
@@ -728,6 +1048,51 @@
         "path": "media/posts/37",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/37/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/37/responsive/screenshot-2023-12-26-120004-2-2xl.png",
+        "type": "file",
+        "md5": "f3003e84a14b0498b40dc8c615e7e133"
+    },
+    {
+        "path": "/media/posts/37/responsive/screenshot-2023-12-26-120004-2-lg.png",
+        "type": "file",
+        "md5": "f3003e84a14b0498b40dc8c615e7e133"
+    },
+    {
+        "path": "/media/posts/37/responsive/screenshot-2023-12-26-120004-2-md.png",
+        "type": "file",
+        "md5": "c96bae4c617f5ab5e9c2db349cedca63"
+    },
+    {
+        "path": "/media/posts/37/responsive/screenshot-2023-12-26-120004-2-sm.png",
+        "type": "file",
+        "md5": "5c94b813b1f9dc2554b556e3123957c1"
+    },
+    {
+        "path": "/media/posts/37/responsive/screenshot-2023-12-26-120004-2-sm2.png",
+        "type": "file",
+        "md5": "b4a1f1809fcce3b9228887966de8f42b"
+    },
+    {
+        "path": "/media/posts/37/responsive/screenshot-2023-12-26-120004-2-xl.png",
+        "type": "file",
+        "md5": "f3003e84a14b0498b40dc8c615e7e133"
+    },
+    {
+        "path": "/media/posts/37/responsive/screenshot-2023-12-26-120004-2-xs.png",
+        "type": "file",
+        "md5": "cf4e40261247732a02388c8d7ed5940f"
+    },
+    {
+        "path": "/media/posts/37/screenshot-2023-12-26-120004-2.png",
+        "type": "file",
+        "md5": "809eb5d34ca1b18255c9c828733c0a58"
     },
     {
         "path": "/media/posts/37/screenshot-2023-12-26-120004.png",
@@ -760,9 +1125,49 @@
         "md5": "7a71da26f1d0990879076d2d963bae39"
     },
     {
-        "path": "/media/posts/38/dsc03499.jpg",
+        "path": "/media/posts/38/dsc03499-2.jpg",
         "type": "file",
         "md5": "56f0e5efe2e06e001ece0a0ca2cd7f90"
+    },
+    {
+        "path": "media/posts/38/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/38/responsive/dsc03499-2-2xl.jpg",
+        "type": "file",
+        "md5": "606e3fef6eb13287e6eff5e9fe5a5094"
+    },
+    {
+        "path": "/media/posts/38/responsive/dsc03499-2-lg.jpg",
+        "type": "file",
+        "md5": "a402a58ffc272cccef8d02e540a2c721"
+    },
+    {
+        "path": "/media/posts/38/responsive/dsc03499-2-md.jpg",
+        "type": "file",
+        "md5": "7ac5b78a8a0b5dedc7fe2432a4bac1cf"
+    },
+    {
+        "path": "/media/posts/38/responsive/dsc03499-2-sm.jpg",
+        "type": "file",
+        "md5": "ba5ed8961beecdf01fe4aa3afecc16bc"
+    },
+    {
+        "path": "/media/posts/38/responsive/dsc03499-2-sm2.jpg",
+        "type": "file",
+        "md5": "0afdbae5fbed71db41506cbc3e468b33"
+    },
+    {
+        "path": "/media/posts/38/responsive/dsc03499-2-xl.jpg",
+        "type": "file",
+        "md5": "31d4b39e9c7c3c22ee915f80c0a9de2e"
+    },
+    {
+        "path": "/media/posts/38/responsive/dsc03499-2-xs.jpg",
+        "type": "file",
+        "md5": "c307a4daa503069c79bb8910bffe83fd"
     },
     {
         "path": "media/posts/39",
@@ -1232,7 +1637,7 @@
     {
         "path": "media-art-ritual-as-feminist-praxis-diasporic-worldmaking-in-a-place-of-care-journal-of-interactive-technology-and-pedagogy-vol-23.html",
         "type": "file",
-        "md5": "6777604d1fb4745e710e101aa697872d"
+        "md5": "8ba34a798d2414543bbcb8d66669eea3"
     },
     {
         "path": "mid-autumn-full-moon-a-nexus-of-memory.html",
@@ -1247,7 +1652,7 @@
     {
         "path": "non-thinking.html",
         "type": "file",
-        "md5": "ee041c695df90443406defeaa3f29210"
+        "md5": "18d2ee0ea895d8f29c916f0024809ea2"
     },
     {
         "path": "on-writing.html",
@@ -1257,7 +1662,7 @@
     {
         "path": "origin-of-somu-performance-reflections.html",
         "type": "file",
-        "md5": "957851498ffc5dd05dc4f69bc4c0d99f"
+        "md5": "d23949b8e771ca1eafb6017072b56056"
     },
     {
         "path": "page",
@@ -1272,7 +1677,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "d9c24323c79f9d63d5dc67dbe41c599c"
+        "md5": "817421869b2fe10bbe3a121860368cc9"
     },
     {
         "path": "page/3",
@@ -1302,7 +1707,7 @@
     {
         "path": "red-bean-porridge-for-the-new-house.html",
         "type": "file",
-        "md5": "a4c05669be1681c83771be8816808751"
+        "md5": "c1100c47e65da14e99e3c6b062eb1f2f"
     },
     {
         "path": "research.html",
@@ -1317,17 +1722,17 @@
     {
         "path": "shellfish-diner-from-the-ocean-to-university-into-the-home.html",
         "type": "file",
-        "md5": "35ab6cdc27e1d3a97baaaad1f67be2d8"
+        "md5": "2d0102e30d555e30d77a807527ae2e65"
     },
     {
         "path": "shockwave-delay-by-yoshiko-chuma-and-the-school-of-hard-knocks.html",
         "type": "file",
-        "md5": "76cc5c13e0eb0eede2c9fd8901df37f7"
+        "md5": "35cec16f038ef996788d591397900458"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "612fca7345b34bb6ac57399e053b9d71"
+        "md5": "d97d5773959a6c6957fc94af6b31b68d"
     },
     {
         "path": "sitemap.xsl",
@@ -1337,7 +1742,7 @@
     {
         "path": "some-findings-from-somuhwas-novella.html",
         "type": "file",
-        "md5": "7bb5efcfed4aa4e8be0d4517286e1043"
+        "md5": "48cc077f131d4757c67f699b321a3148"
     },
     {
         "path": "tags",
@@ -1352,7 +1757,7 @@
     {
         "path": "/tags/blog/index.html",
         "type": "file",
-        "md5": "d8732decc3f5ca09bcc63b60ba07066c"
+        "md5": "d094d6de00f9a99e608937d1dc9c357e"
     },
     {
         "path": "tags/hangugeo",
@@ -1362,12 +1767,12 @@
     {
         "path": "/tags/hangugeo/index.html",
         "type": "file",
-        "md5": "a181c45148a10a86e0cf3231c5e1f38b"
+        "md5": "ed19bff14eb68545e0fe5507d61ab29a"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "22fd8ff91b14f081232fe230aca01734"
+        "md5": "173d39d4c428b16ffbcb4b27606cc10b"
     },
     {
         "path": "tags/research",
@@ -1377,7 +1782,7 @@
     {
         "path": "/tags/research/index.html",
         "type": "file",
-        "md5": "7ee4f7ee2ea46da68d06a31b822b06eb"
+        "md5": "5acbef9f2acab5349a6b63ac4146a23f"
     },
     {
         "path": "talks.html",
@@ -1407,17 +1812,17 @@
     {
         "path": "travel-notes-from-kumasi-and-the-greater-accra-region.html",
         "type": "file",
-        "md5": "bce1133871ff1e7f69a3314e3044d7ce"
+        "md5": "a791c9317cd2aff775ae5b73c3695477"
     },
     {
         "path": "trip-down-angeleno-lane.html",
         "type": "file",
-        "md5": "38a6c704ad7d3af38be9e6e972795f49"
+        "md5": "15eba3cd6e95a7a9b25e9183e052c267"
     },
     {
         "path": "watching-hunger-games-against-palestinian-erasure-what-does-worldbuilding-afford-part-1.html",
         "type": "file",
-        "md5": "823fd8f3fd71ecd38c2ce96d420bf5bd"
+        "md5": "1cac03f623eba5529a77f038da9feb06"
     },
     {
         "path": "xr-media-art.html",
