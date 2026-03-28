@@ -107,7 +107,7 @@
     {
         "path": "/authors/newswimming/index.html",
         "type": "file",
-        "md5": "3819adaa428dfcb1d2fa50f003805ef8"
+        "md5": "a02d935163de305b8c07d462f57eba19"
     },
     {
         "path": "authors/newswimming/page",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/newswimming/page/2/index.html",
         "type": "file",
-        "md5": "d60a07f094790fb9d8bebf19f3be11f9"
+        "md5": "fb4f30608da0751aa0397e2309e5b3da"
     },
     {
         "path": "authors/newswimming/page/3",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/newswimming/page/3/index.html",
         "type": "file",
-        "md5": "e40a8d2b55c09d3859b6eb6ebc900edf"
+        "md5": "e249c1191ba841a5df5fc1fc59332ff2"
     },
     {
         "path": "bathhouse-in-gwangju-gwangjumogyogtang.html",
@@ -177,12 +177,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "05603bda677aa069adb6646c7854ea81"
+        "md5": "a3fdf3942738221978ef2f6e5c3d0934"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2c4890cca9c54f77e343edaf87da8868"
+        "md5": "abd2c2bcaae1ed49e398b7529e183453"
     },
     {
         "path": "feeling-like-im-coloring-a-childrens-book-with-this-unity-tutorial.html",
@@ -217,7 +217,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "79b2535dee8e3cae9de7212c98bed906"
+        "md5": "c37d31e2b720f170c1d41e6549b39451"
     },
     {
         "path": "interview-somus-mask-and-new-mythos-for-the-metaverse.html",
@@ -227,7 +227,7 @@
     {
         "path": "its-name-was-penelope-by-judy-malloy.html",
         "type": "file",
-        "md5": "1e0aa2fe50cf9a543d6d3038372d0dd4"
+        "md5": "de2eefb1812600fb848ea723004e593b"
     },
     {
         "path": "jitp-the-liberatory-legacy-of-bell-hooks-pedagogies-and-praxes-that-heal-and-disrupt.html",
@@ -268,6 +268,16 @@
         "path": "/media/posts/1/DSC04265.JPG",
         "type": "file",
         "md5": "40d39a4bc1edd43a80b810020a70c167"
+    },
+    {
+        "path": "/media/posts/1/DSC04282.JPG",
+        "type": "file",
+        "md5": "250c5186dc6f35acde8f280bb05bf7b5"
+    },
+    {
+        "path": "/media/posts/1/DSC04299.JPG",
+        "type": "file",
+        "md5": "18add4c1213a0cc1f9faf09d1de0d3c4"
     },
     {
         "path": "media/posts/1/responsive",
@@ -328,6 +338,46 @@
         "path": "/media/posts/1/responsive/DSC04265-xs.JPG",
         "type": "file",
         "md5": "436a73db56bdae2f1bf0c0cec57cad0d"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04282-lg.JPG",
+        "type": "file",
+        "md5": "d3cd4e92d0fe11199aee8b8880c543db"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04282-md.JPG",
+        "type": "file",
+        "md5": "f9468aee45919026635a82f697c4e39d"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04282-sm.JPG",
+        "type": "file",
+        "md5": "a276fcc1ac0045d998015572ee4589ae"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04282-xs.JPG",
+        "type": "file",
+        "md5": "40f8f7ac8c01503e8af6c30da7457e87"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04299-lg.JPG",
+        "type": "file",
+        "md5": "f70c1dc96953ec9cda49ff2baee59a75"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04299-md.JPG",
+        "type": "file",
+        "md5": "9145b5afde399aea4d4bf53eb3519a5d"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04299-sm.JPG",
+        "type": "file",
+        "md5": "8bae02b6137485d4d948f3e6c5aa41a0"
+    },
+    {
+        "path": "/media/posts/1/responsive/DSC04299-xs.JPG",
+        "type": "file",
+        "md5": "ce5d9b642c4c3ceeb0a318ec844b41c8"
     },
     {
         "path": "media/posts/12",
@@ -450,7 +500,47 @@
         "md5": false
     },
     {
-        "path": "/media/posts/19/screen-shot-2022-10-12-at-1.58.44-pm.png",
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/screen-shot-2022-10-12-at-1.58.44-pm-2-2xl.png",
+        "type": "file",
+        "md5": "9c798bf0bafa70f85a2c7c31431e0af7"
+    },
+    {
+        "path": "/media/posts/19/responsive/screen-shot-2022-10-12-at-1.58.44-pm-2-lg.png",
+        "type": "file",
+        "md5": "8a4240d64bcb1f7d85d17a7d566337b9"
+    },
+    {
+        "path": "/media/posts/19/responsive/screen-shot-2022-10-12-at-1.58.44-pm-2-md.png",
+        "type": "file",
+        "md5": "db775717a2e7c6997699e8d002a9d91f"
+    },
+    {
+        "path": "/media/posts/19/responsive/screen-shot-2022-10-12-at-1.58.44-pm-2-sm.png",
+        "type": "file",
+        "md5": "e8c0806b9542e562b47f8c9c747c101f"
+    },
+    {
+        "path": "/media/posts/19/responsive/screen-shot-2022-10-12-at-1.58.44-pm-2-sm2.png",
+        "type": "file",
+        "md5": "e175efd2a6dcbbaf82ddb4569ea05cc8"
+    },
+    {
+        "path": "/media/posts/19/responsive/screen-shot-2022-10-12-at-1.58.44-pm-2-xl.png",
+        "type": "file",
+        "md5": "1d115d74b0f6a86447ef9b8526701ea7"
+    },
+    {
+        "path": "/media/posts/19/responsive/screen-shot-2022-10-12-at-1.58.44-pm-2-xs.png",
+        "type": "file",
+        "md5": "331d8d2e6bc8e449848b7d1fe4577d7d"
+    },
+    {
+        "path": "/media/posts/19/screen-shot-2022-10-12-at-1.58.44-pm-2.png",
         "type": "file",
         "md5": "ac8a37ff4c01149d4e4ac8ab7e7eef9c"
     },
@@ -535,9 +625,49 @@
         "md5": false
     },
     {
-        "path": "/media/posts/26/boats.png",
+        "path": "/media/posts/26/boats-2.png",
         "type": "file",
         "md5": "d8014a9130c9770511f1ca2ca994ca88"
+    },
+    {
+        "path": "media/posts/26/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/responsive/boats-2-2xl.png",
+        "type": "file",
+        "md5": "c6022184134cf36e1e44c7f3431a7cc2"
+    },
+    {
+        "path": "/media/posts/26/responsive/boats-2-lg.png",
+        "type": "file",
+        "md5": "c6022184134cf36e1e44c7f3431a7cc2"
+    },
+    {
+        "path": "/media/posts/26/responsive/boats-2-md.png",
+        "type": "file",
+        "md5": "c6022184134cf36e1e44c7f3431a7cc2"
+    },
+    {
+        "path": "/media/posts/26/responsive/boats-2-sm.png",
+        "type": "file",
+        "md5": "c07e6ef5ccb6bc21635d767b70907ce7"
+    },
+    {
+        "path": "/media/posts/26/responsive/boats-2-sm2.png",
+        "type": "file",
+        "md5": "e6e13f07616abc9073c4e961f26f9370"
+    },
+    {
+        "path": "/media/posts/26/responsive/boats-2-xl.png",
+        "type": "file",
+        "md5": "c6022184134cf36e1e44c7f3431a7cc2"
+    },
+    {
+        "path": "/media/posts/26/responsive/boats-2-xs.png",
+        "type": "file",
+        "md5": "530896945db5c9adbc222d13b6419980"
     },
     {
         "path": "media/posts/27",
@@ -1647,7 +1777,7 @@
     {
         "path": "multiple-offerings.html",
         "type": "file",
-        "md5": "0d6398b9632820aeed5264c9e34f07ad"
+        "md5": "ee82433e4f972530a24f9981479bedd6"
     },
     {
         "path": "non-thinking.html",
@@ -1677,7 +1807,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "817421869b2fe10bbe3a121860368cc9"
+        "md5": "ebc51506ba93143860a7416358b14a0f"
     },
     {
         "path": "page/3",
@@ -1687,22 +1817,22 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "685ea7437596fe3b17c8489abdc02375"
+        "md5": "589f617a4b2f8dde9fccea52bfd16baa"
     },
     {
         "path": "possibilities-of-voiceover-workshop-with-nicolas-pereda-at-center-for-ethnographic-media-arts.html",
         "type": "file",
-        "md5": "632bf8d54ee3f4ae2b31560d7d524b9b"
+        "md5": "ba5518b5f04cdc35cd168f30e6b0ee1e"
     },
     {
         "path": "press-awarded-the-2021-22-fulbright-open-studyresearch-fellowship.html",
         "type": "file",
-        "md5": "c4ba4e4a8ee2e10b372f8c9d4990b7cf"
+        "md5": "41a1399ebd0106f6ca6c96a9914cb68d"
     },
     {
         "path": "press-talcumgwa-vryi-yunghab-jeontong-yesulyi-gasang-segyehwareul-ggumgguda-pulbeuraiteu-yeongu-janghagsaeng-andeurea-sinyeong-kim-inteobyu.html",
         "type": "file",
-        "md5": "ac5b151f8686eabcd7ca4002ea36932a"
+        "md5": "1aec6de20e4f4ebd2bbab31759849e65"
     },
     {
         "path": "red-bean-porridge-for-the-new-house.html",
@@ -1732,7 +1862,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d97d5773959a6c6957fc94af6b31b68d"
+        "md5": "df77a7bd673955fed7501436d35b1cb5"
     },
     {
         "path": "sitemap.xsl",
@@ -1767,12 +1897,12 @@
     {
         "path": "/tags/hangugeo/index.html",
         "type": "file",
-        "md5": "ed19bff14eb68545e0fe5507d61ab29a"
+        "md5": "ced05bf96005f3fe3a86b7eecb878b0b"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "173d39d4c428b16ffbcb4b27606cc10b"
+        "md5": "4e5991a0a6653803b47ad5961b7e9801"
     },
     {
         "path": "tags/research",
