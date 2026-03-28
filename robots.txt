@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://newswimming.github.io/sitemap.xml
